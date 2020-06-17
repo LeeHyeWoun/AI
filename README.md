@@ -6,7 +6,7 @@
 <H2>심층 신경망 구현 with MNIST Dataset</H2>  
 <b>MNIST_LogisticReg.py</b><br/>
 기능 : MNIST에서 제공하는 Dataset으로 심층신경망 구현<br/><br/>
-<img src="https://user-images.githubusercontent.com/48902155/84875227-a663f700-b0c0-11ea-92ef-4e310d8423ee.png"></img>
+<img src="https://user-images.githubusercontent.com/48902155/84875521-05c20700-b0c1-11ea-8ce5-a8e6d680fa0e.png"></img>
 <br/><br/>
 
 <H2>합성곱 신경망 구현 with MNIST Dataset</H2>  
