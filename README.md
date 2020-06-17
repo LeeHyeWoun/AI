@@ -1,13 +1,13 @@
 
 심층 신경망 구현 + 임의의 데이터 (새,포유류,기타) 분류  
-> LogisticReg-2017111299.py  
+> <b>LogisticReg-2017111299.py</b>  
 
-심층 신경망 구현  
-> MNIST_LogisticReg.py  
+심층 신경망 구현 with MNIST Dataset  
+> <b>MNIST_LogisticReg.py</b>  
 > 기능 : MNIST에서 제공하는 Dataset으로 심층신경망 구현  
 
-합성곱 신경망 구현  
-> MNIST_CNN.py  
+합성곱 신경망 구현 with MNIST Dataset  
+> <b>MNIST_CNN.py</b>  
 > 기능 : MNIST에서 제공하는 Dataset으로 합성곱신경망 구현  
 > 목표 : 가로 픽셀(28) x 세로 픽셀(28) x 흑백채널(1) 의 3차원 데이터(숫자 손글씨 이미지)를 0~9의 10가지 숫자로 분류합니다.  
 > 특징 :   
