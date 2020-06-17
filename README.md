@@ -16,6 +16,6 @@
 * 심층신경망은 Fully connected Layer로만 이루어져 데이터의 입체 정보가 무시되는 단점이 있었는데 이를 해결할 수 있습니다.<br/>
 * 은닉층은 Convolution Layer 2층, Fully connected Layer 2층으로 구성했습니다.<br/>
 * 두가지 최적화함수(Adam, RMSProb)를 적용해보고 비교합니다.<br/><br/>
-<img src="https://user-images.githubusercontent.com/48902155/84871741-dfe63380-b0bb-11ea-970a-453b79225d01.png"></img>
+<img src="https://user-images.githubusercontent.com/48902155/84874229-4587ef00-b0bf-11ea-8cd3-d652addc4321.png"></img>
 <br/><br/>
 
