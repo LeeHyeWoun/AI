@@ -1,15 +1,13 @@
 
 <H2>심층 신경망 구현 with 임의의 데이터</H2>  
 <b>LogisticReg-2017111299.py</b><br/>
-<br/><br/>
+<br/>
 
 <H2>심층 신경망 구현 with MNIST Dataset</H2>  
 <b>MNIST_LogisticReg.py</b><br/>
 기능 : MNIST에서 제공하는 Dataset으로 심층신경망 구현<br/><br/>
-<img src="https://user-images.githubusercontent.com/48902155/84875521-05c20700-b0c1-11ea-8ce5-a8e6d680fa0e.png"></img>
+<img src="https://user-images.githubusercontent.com/48902155/84875921-939df200-b0c1-11ea-99be-9f3031ccdfad.png"></img>
 <br/>
-<img src="https://user-images.githubusercontent.com/48902155/84875729-5174b080-b0c1-11ea-90e1-07b4772809e3.png"></img>
-<br/><br/>
 
 <H2>합성곱 신경망 구현 with MNIST Dataset</H2>  
 <b>MNIST_CNN.py</b><br/>
